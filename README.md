@@ -24,4 +24,4 @@
 ### Skills:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ## Statistics
-![GitHub top-langs Card](https://github-readme-stats.vercel.app/api/top-langs?username=EnoticKreker&type=top-langs&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false)
+![Ваша статистика](https://github-readme-stats.vercel.app/api?username=EnoticKreker&show_icons=true&theme=radical)
